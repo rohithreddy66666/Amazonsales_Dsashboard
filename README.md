@@ -1,4 +1,4 @@
-# Amazonsales_Dashhboard
+# Amazonsales_Dashboard
 
 Dataset :
 The dataset that I am using is Amazon India clothes sales and shipping (kaggle) it 
